@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\1grav\source\repos\Unit Testing\Debug\Unit Testing.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="CollectionTest.CollectionSmartPointerIsNotNull" Duration="1" />
+    <TestDuration Test="CollectionTest.IsEmptyOnCreate" Duration="1" />
+    <TestDuration Test="CollectionTest.AlwaysFail" Duration="1" />
+    <TestDuration Test="CollectionTest.CanAddToEmptyVector" Duration="1" />
+    <TestDuration Test="CollectionTest.CanAddFiveValuesToVector" Duration="1" />
+    <TestDuration Test="CollectionTest.MaxSizeGreaterThanSize" Duration="1" />
+    <TestDuration Test="CollectionTest.MaxCapacityGreaterThanSize" Duration="1" />
+    <TestDuration Test="CollectionTest.ResizingIncreasesCollection" Duration="1" />
+    <TestDuration Test="CollectionTest.AlansTest1" Duration="1" />
+    <TestDuration Test="CollectionTest.AlansTest2" Duration="1" />
+    <TestDuration Test="CollectionTest.ResizingDecreasesCollection" Duration="1" />
+    <TestDuration Test="CollectionTest.ResizingDecreasesCollectionToZero" Duration="1" />
+    <TestDuration Test="CollectionTest.ClearErasesCollection" Duration="1" />
+    <TestDuration Test="CollectionTest.EraseErasesCollection" Duration="1" />
+    <TestDuration Test="CollectionTest.ReserveIncreasesCapacity" Duration="1" />
+    <TestDuration Test="CollectionTest.OutOfRangeException" Duration="1" />
+    <TestDuration Test="CollectionTest.CapacityGreaterThanSize" Duration="1" />
+    <TestDuration Test="CollectionTest.ErasesBeginEnd" Duration="1" />
+    <TestDuration Test="CollectionTest.ReserveIncreaseCapacity" Duration="1" />
+    <TestDuration Test="CollectionTest.OutOfRange" Duration="1" />
+    <TestDuration Test="CollectionTest.Test1" Duration="1" />
+    <TestDuration Test="CollectionTest.PopBack" Duration="1" />
+    <TestDuration Test="CollectionTest.PushBack" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

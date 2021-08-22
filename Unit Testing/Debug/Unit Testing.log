@@ -1,0 +1,4 @@
+﻿  test.cpp
+C:\Users\1grav\source\repos\Unit Testing\test.cpp(17,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\1grav\source\repos\Unit Testing\test.cpp(283,5): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Unit Testing.vcxproj -> C:\Users\1grav\source\repos\Unit Testing\Debug\Unit Testing.exe

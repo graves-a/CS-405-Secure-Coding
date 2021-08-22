@@ -1,0 +1,3 @@
+﻿  Exceptions Activity.cpp
+C:\Users\1grav\source\repos\Exceptions Activity\Exceptions Activity.cpp(73): warning C4715: 'divide': not all control paths return a value
+  Exceptions Activity.vcxproj -> C:\Users\1grav\source\repos\Exceptions Activity\Debug\Exceptions Activity.exe

@@ -1,0 +1,4 @@
+C:\Users\1grav\source\repos\Unit Testing\Debug\Unit Testing.vcxproj.CopyComplete
+C:\Users\1grav\source\repos\Unit Testing\Debug\Unit Testing.exe
+C:\Users\1grav\source\repos\Unit Testing\Debug\gtest.pdb
+C:\Users\1grav\source\repos\Unit Testing\Debug\gtest_main.pdb

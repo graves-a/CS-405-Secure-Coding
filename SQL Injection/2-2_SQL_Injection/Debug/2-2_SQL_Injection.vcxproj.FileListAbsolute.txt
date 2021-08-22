@@ -1,0 +1,2 @@
+C:\Users\1grav\source\repos\2-2_SQL_Injection\Debug\2-2_SQL_Injection.exe
+C:\Users\1grav\source\repos\2-2_SQL_Injection\Debug\2-2_SQL_Injection.pdb
